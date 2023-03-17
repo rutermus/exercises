@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/rutermus/exercises/issues"
   },
-  "homepage": "https://github.com/rutermus/exercises#readme"
+  "homepage": "https://github.com/rutermus/exercises#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
