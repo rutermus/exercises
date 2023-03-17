@@ -1,6 +1,7 @@
 # solution.js
 
 Вы столкнулись с таким кодом, который выводит на экран общее количество комнат во владении нынешнего короля:
+
 ```javascript
 const king = 'King Balon the 6th';
 console.log(king + ' has ' + (6 * 17) + ' rooms.');
@@ -10,7 +11,7 @@ console.log(king + ' has ' + (6 * 17) + ' rooms.');
 
 Избавьтесь от магических чисел, создав новые переменные, а затем выведите текст на экран:
 
-```javascript
+```
 King Balon the 6th has 102 rooms.
 ```
 
