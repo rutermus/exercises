@@ -1,6 +1,6 @@
 {
-	"files": [
-		"src/objects.js"
-	],
-	"config": true
+  "files": [
+    "src/objects.js"
+  ],
+  "config": true
 }
