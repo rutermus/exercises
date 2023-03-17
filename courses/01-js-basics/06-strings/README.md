@@ -1,7 +1,8 @@
 # solution.js
 
 Напишите программу, которая выводит на экран:
-```javascript
+
+```
 - Did Joffrey agree?
 - He did. He also said "I love using \n".
 ```
