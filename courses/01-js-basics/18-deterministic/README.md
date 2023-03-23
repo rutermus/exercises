@@ -1,4 +1,16 @@
-# solution.js
+Основы JavaScript
+
+# Детерминированность
+
+## Вопросы
+
+1. Что такое детерминированная функция?
+2. Что такое побочный эффект?
+3. Приведите примеры побочных эффектов.
+
+## Упражнение
+
+`solution.js`
 
 Функция `Math.random()` возвращает случайное число от `0` до `1` с большим количеством знаков после запятой. Но в реальных задачах бывает нужно получать случайные целые числа, например, в диапазоне от `0` до `10`. Реализуйте код, который выводит на экран именно такое число. Для этой задачи вам понадобятся функции [`Math.random()`](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Math/random) и [`Math.floor()`](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Math/floor)
 
