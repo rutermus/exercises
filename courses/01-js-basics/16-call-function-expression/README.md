@@ -1,4 +1,15 @@
-# solution.js
+Основы JavaScript
+
+# Вызов функции — выражение
+
+## Вопросы
+
+1. Что такое выражение в программировании?
+2. Является ли определение переменной выражением?
+
+## Упражнение
+
+`solution.js`
 
 ```javascript
 const text = 'Never forget what you are, for surely the world will not';
