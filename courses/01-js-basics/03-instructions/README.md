@@ -8,7 +8,7 @@
 
 <details>
 
-<summary>A1</summary>
+<summary>Ответ</summary>
 
 Объект `console` с методом `log` выводит сообщение в консоль.
 
