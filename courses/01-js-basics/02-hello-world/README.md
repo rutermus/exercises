@@ -7,7 +7,7 @@
 Q1. Как вывести сообщение в консоль?
 
 <details>
-  <summary>Ответ</summary>
+  <summary></summary>
 
 Объект `console` с методом `log` выводит сообщение в консоль.
 
