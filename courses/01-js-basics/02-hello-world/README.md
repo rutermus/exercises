@@ -7,9 +7,7 @@
 #### Q1. Как вывести сообщение в консоль?
 
 <details>
-  <summary>
-    <b>A1</b>
-  </summary>
+  <summary>A1</summary>
   <p>
 
 Объект `console` с методом `log` выводит сообщение в консоль.
@@ -20,9 +18,7 @@
 #### Q2. Что такое комментарий?
 
 <details>
-  <summary>
-    <b>A1</b>
-  </summary>
+  <summary>A2</summary>
   <p>
 
 Объект `console` с методом `log` выводит сообщение в консоль.
@@ -33,9 +29,7 @@
 #### Q3. Зачем используют комментарии?
 
 <details>
-  <summary>
-    <b>A1</b>
-  </summary>
+  <summary>A3</summary>
   <p>
 
 Объект `console` с методом `log` выводит сообщение в консоль.
@@ -46,9 +40,7 @@
 #### Q4. Назовите три способа указания комментариев в JS
 
 <details>
-  <summary>
-    <b>A1</b>
-  </summary>
+  <summary>A4</summary>
   <p>
 
 Объект `console` с методом `log` выводит сообщение в консоль.
@@ -59,9 +51,7 @@
 #### Q5. Для чего используют шебанг-комментарии?
 
 <details>
-  <summary>
-    <b>A1</b>
-  </summary>
+  <summary>A5</summary>
   <p>
 
 Объект `console` с методом `log` выводит сообщение в консоль.
